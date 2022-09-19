@@ -1,6 +1,6 @@
 # ASP.NET-Application
 
-This app is build to serve the needs of companies in the music business. It is enables record labels to manage their artists, albums, and tracks.
+This app is build to serve the needs of companies in the music business. It enables record labels to manage their artists, albums, and tracks.
 
 ```
 1.You can create different types of users: admin, executive, coordinator, clerk and common user.
